@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "RC2014_I2C")(type "KiCad")(uri "${KIPRJMOD}/RC2014_I2C.pretty")(options "")(descr "Project-local footprints for front_panel_i2c_adapter"))
+)

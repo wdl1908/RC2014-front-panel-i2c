@@ -1,0 +1,4 @@
+Comment,Designator,Footprint,LCSC Part #
+1k,"R1,R2,R3,R4,R5,R6,R7,R8",Resistor_SMD:R_0805_2012Metric,
+2.2k,"R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19",Resistor_SMD:R_0805_2012Metric,
+TCA9555PWR,U2,Package_SO:TSSOP-24_4.4x7.8mm_P0.65mm,
